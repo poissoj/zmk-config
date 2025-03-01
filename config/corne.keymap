@@ -33,10 +33,10 @@
 
         Base {
             bindings = <
-&none  &kp Q  &kp W            &kp E            &kp R                &kp T                       &kp Y                  &kp U                 &kp I             &kp O            &kp P     &none
-&none  &kp A  &hml LEFT_ALT S  &hml LEFT_GUI D  &hml LEFT_CONTROL F  &kp G                       &kp H                  &hmr RIGHT_CONTROL J  &hmr RIGHT_GUI K  &hmr LEFT_ALT L  &kp SEMI  &none
-&none  &kp Z  &kp X            &kp C            &kp V                &kp B                       &kp N                  &kp M                 &kp COMMA         &kp DOT          &kp FSLH  &none
-                               &mt LGUI TAB     &lt 1 ESCAPE         &mt LEFT_SHIFT BACKSPACE    &mt RIGHT_SHIFT ENTER  &mt RIGHT_ALT SPACE   &mt LS(LGUI) TAB
+&none  &kp Q  &kp W            &kp E               &kp R                &kp T                   &kp Y                  &kp U                 &kp I             &kp O            &kp P     &none
+&none  &kp A  &hml LEFT_ALT S  &hml LEFT_GUI D     &hml LEFT_CONTROL F  &kp G                   &kp H                  &hmr RIGHT_CONTROL J  &hmr RIGHT_GUI K  &hmr LEFT_ALT L  &kp SEMI  &none
+&none  &kp Z  &kp X            &kp C               &kp V                &kp B                   &kp N                  &kp M                 &kp COMMA         &kp DOT          &kp FSLH  &none
+                               &mt LGUI BACKSPACE  &lt 1 ESCAPE         &mt LEFT_SHIFT SPACE    &mt RIGHT_SHIFT ENTER  &mt RIGHT_ALT TAB     &caps_word
             >;
         };
 
